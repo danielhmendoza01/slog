@@ -1,0 +1,2 @@
+# slog
+SLURM log tracker
