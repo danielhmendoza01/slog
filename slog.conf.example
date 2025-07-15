@@ -1,0 +1,14 @@
+# slog configuration file
+# Copy this file to ~/.config/slog/slog.conf and update the paths for your system
+
+[paths]
+# Directory containing SLURM output log files (.out)
+logs_out_dir = /path/to/slurm/output/logs
+
+# Directory containing SLURM error log files (.err)
+logs_err_dir = /path/to/slurm/error/logs
+
+# Example configurations for common SLURM setups:
+# User-specific logs:
+# logs_out_dir = ~/slurm/logs/out
+# logs_err_dir = ~/slurm/logs/err

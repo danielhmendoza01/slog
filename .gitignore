@@ -1,0 +1,8 @@
+.claude*
+CLAUDE.md
+
+# Ignore personal configuration file
+slog.conf
+
+# Keep example configuration
+!slog.conf.example
